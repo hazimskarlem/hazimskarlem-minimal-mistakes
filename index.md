@@ -12,6 +12,8 @@ excerpt: "Vítejte na mém webu o házení muškařským prutem."
 ## O mně
 Tady bude tvůj text o tobě, tvé koníčky atd.
 
+Ps: jsi na hlavni vetvi
+
 ---
 
 <div id="cenik"></div>
@@ -28,6 +30,6 @@ Tady můžeš vložit odkaz na rezervační formulář nebo externí systém (na
 
 <div id="kontakt"></div>
 ## Kontakt a IČO
-* **Jméno:** Karel 
+* **Jméno:** Karel Novak
 * **IČO:** 12345678
 * **E-mail:** karel@email.cz
