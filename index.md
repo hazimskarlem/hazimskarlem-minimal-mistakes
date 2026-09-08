@@ -11,7 +11,7 @@ excerpt: "Projekt pro výuku muškařského házení"
 Vítejte na stránkách připravovaného projektu Házím s Karlem. 
 Jmenuji se Karel Novák a jsem držitelem mezinárodní certifikace FFI Certified Instructor.
 
-Ať už s muškařením teprve začínáte, nebo se chcete posunout od nymfování k suché mušce, nebo třeba streamru a vypilovat si elegantní a efektivní prezentaci nástrahy, jsem tu pro vás. Zakládám si na osobním a individuálním přístupu – každou lekci přizpůsobím vašemu tempu, aktuálním dovednostem a tomu, co vás u vody skutečně trápí. 
+Ať už s muškařením teprve začínáte, nebo se chcete posunout od nymfování k suché mušce či streamru a vypilovat si efektivní prezentaci nástrahy, jsem tu pro vás. Zakládám si na osobním a individuálním přístupu – každou lekci přizpůsobím vašemu tempu, aktuálním dovednostem a tomu, co vás u vody skutečně trápí. 
 
 
 <div id="cenik"></div>
@@ -28,8 +28,9 @@ V následujících týdnech zde najdete:
 <div id="kontakt"></div>
 ## Kontakt
 Máte zájem o první lekci, chcete se na něco zeptat nebo domluvit termín? Ozvěte se mi rovnou:
-* **Jméno:** Karel Novak
+* **Jméno:** Karel Novák
 * **Telefon:** +420 604 707 865
 * **E-mail:** <karel.novak@hazimskarlem.cz>
 * **Kde trénuji:** Čelákovice, po domluvě Praha
 * **IČO:** 29950139
+* **Adresa:** Boženy Koutníkové 2028, 250 88 Čelákovice
