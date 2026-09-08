@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/karel-img.jpg
-excerpt: "Instruktor házení muškařskám prutem"
+excerpt: "Projekt pro výuku muškařského házení"
 ---
 
 Vítejte na stránkách připravovaného projektu Házím s Karlem. 
@@ -16,7 +16,9 @@ Ať už s muškařením teprve začínáte, nebo se chcete posunout od nymfován
 
 <div id="cenik"></div>
 ## Na čem právě pracuji?
-**Tento web je v současnosti ve fázi příprav.** V následujících týdnech zde najdete:
+**Tento web je v současnosti ve fázi příprav. Stay tuned!**** 
+
+V následujících týdnech zde najdete:
 * Nabídku individuálních lekcí
 * Jasně stanovenou cenu
 * Ukázky videí a fotogalerii z našich tréninků na trávě i u vody
@@ -31,7 +33,3 @@ Máte zájem o první lekci, chcete se na něco zeptat nebo domluvit termín? Oz
 * **E-mail:** karel.novak@hazimskarlem.cz
 * **Kde trénuji:** Čelákovice, po domluvě Praha
 * **IČO:** 29950139
----
-
-
-**Stay tuned!**
