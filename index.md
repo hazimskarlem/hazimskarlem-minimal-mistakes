@@ -8,8 +8,6 @@ header:
 excerpt: "Instruktor házení muškařskám prutem"
 ---
 
-<div id="profil"></div>
-## O mně
 Vítejte na stránkách připravovaného projektu Házím s Karlem. 
 Jmenuji se Karel Novák a jsem držitelem mezinárodní certifikace FFI Certified Instructor.
 
@@ -33,5 +31,7 @@ Máte zájem o první lekci, chcete se na něco zeptat nebo domluvit termín? Oz
 * **E-mail:** karel.novak@hazimskarlem.cz
 * **Kde trénuji:** Čelákovice, po domluvě Praha
 * **IČO:** 29950139
+---
+
 
 **Stay tuned!**
