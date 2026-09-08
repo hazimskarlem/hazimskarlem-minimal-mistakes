@@ -1,7 +1,5 @@
 # Hlavní navigační menu
 main:
-  - title: "O mně"
-    url: /#profil
   - title: "Na čem pracuji"
     url: /#cenik
   - title: "Kontakt"
