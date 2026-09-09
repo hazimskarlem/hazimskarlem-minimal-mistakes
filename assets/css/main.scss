@@ -6,7 +6,7 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/all"; // main partials
 
 
 // ==========================================================
@@ -21,9 +21,3 @@ a:focus, button:focus, .site-title:focus, :target, h1:focus, h2:focus, h3:focus 
 .header-link {
   display: none !important;
 }
-
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
-@import "minimal-mistakes";
