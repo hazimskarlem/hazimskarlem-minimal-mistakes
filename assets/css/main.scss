@@ -27,19 +27,3 @@ a:focus, button:focus, .site-title:focus, :target, h1:focus, h2:focus, h3:focus 
 ---
 
 @import "minimal-mistakes";
-
-/* --- Úprava postranního panelu (sidebaru) --- */
-
-/* 1. Úplné skrytí nadpisu/jména webu pod fotkou v sidebar profilu */
-.author__content .author__name {
-  display: none !important;
-}
-
-/* 2. Zarovnání zbytku textu (bio/popisku) nahoru k obrázku a úprava odsazení */
-.author__content {
-  margin-top: 0 !important;
-}
-
-.author__urls-wrapper {
-  margin-top: 0.5rem !important;
-}
